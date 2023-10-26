@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'me.mtron.mobile_application_development_labsheet9'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "me.mtron.mobile_application_development_labsheet9"
         minSdk 24
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
